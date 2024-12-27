@@ -1,0 +1,27 @@
+.bb{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 39vh;
+    display: flex;
+    width: 100%;
+    
+}
+.cc{
+
+text-align: center;
+
+}
+.dd{
+background-color: #D66E22 !important;
+}
+.dd:hover{
+    background-color: gray !important
+}
+@media (max-width:768px){
+.bbbb{
+    height: auto !important;
+    /* background-color: green !important; */
+    margin-bottom: 10px;
+}
+
+}

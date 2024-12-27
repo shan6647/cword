@@ -1,0 +1,16 @@
+.navbar{
+    background-color: white !important;
+}
+.btn{
+    background-color: white !important;
+    color: black;
+    border: 0;
+}
+
+
+.navbar{
+    position: sticky !important;
+    top: 0px;
+    /* top: 10px; */
+/* width: 100%; */
+}

@@ -1,0 +1,13 @@
+.yu{
+    /* text-align: center; */
+    width: 100%;
+    /* display: flex;
+    justify-content: center;
+    background-color: red; */
+}
+.yb{
+    width: 100%;
+    /* background-color: green; */
+    display: flex;
+    justify-content: center;
+}
